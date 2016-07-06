@@ -6,8 +6,7 @@ import android.content.Intent;
  * Created by Prabhpreet on 31-10-2015.
  */
 public class Constants {
-    public static final String APIKEY = "HhcLRSiBeU2RmJaW";
-    //public static final String APIKEY="xGjodyO5UpzPTOVt";
+    public static final String APIKEY = "YOUR_KEY_HERE";
 
     public static final String SHOUTCAST_TOP500_URL = "http://api.shoutcast.com/legacy/Top500?k=";
 
