@@ -6,7 +6,7 @@ android {
         config {
             keyAlias 'sunnykeystore'
             keyPassword 'google_967'
-            storeFile file('/Users/sunnyparihar/Documents/Projects/sunny.keystore.jks')
+            storeFile file('sunny.keystore.jks')
             storePassword 'google_967'
         }
     }
