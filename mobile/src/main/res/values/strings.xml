@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name_launcher">Sunny Radio</string>
+    <string name="app_name_category">Sunny Radio</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="SearchOnline">Search Online</string>
+    <string name="Top500">Top 500</string>
+    <string name="Genre">Genre</string>
+    <string name="artist">Now Playing</string>
+    <string name="country">Country</string>
+    <string name="language">Language</string>
+    <string name="recent">Recent</string>
+
+    <!-- add unit ids -->
+    <string name="adUnitId">ca-app-pub-1364382699457734/2289631400</string>
+    <string name="adUnitIdInterstitial">ca-app-pub-1364382699457734/9050954606</string>
+
+    <!-- Setting-->
+    <string name="settingHeaderAds">Tired of ads?</string>
+    <string name="hideAdsTitle">Remove Ads</string>
+    <string name="hideAdsSubject">Do you want to remove ads? Ads will not be shown any more.</string>
+
+    <string name="settingHeaderPlay">Playback</string>
+    <string name="playBackgroundTitle">Background Play</string>
+    <string name="playBackgroundSubject">Radio will continue to play in background.</string>
+    <string name="showBubbleJetPlayerTitle">Bubble Player</string>
+    <string name="showBubbleJetPlayerSubject">Bubble player will display when if app is in background.</string>
+    <string name="showBubbleJetPlayerOnShakeTitle">Bubble Player(On demand)</string>
+    <string name="showBubbleJetPlayerOnShakeSubject">Launch Bubble player by shaking your device.</string>
+    <string name="showEQTitle">Equalizer</string>
+    <string name="showEQSubject">Lets you adjust sound settings.</string>
+
+    <string name="settingHeaderDrawing">Drawing</string>
+    <string name="forceRTLDirection">Mirror View</string>
+    <string name="forceRTLDirectionSubject">Swap controls of your app.</string>
+
+    <string name="settingHeaderOther">Other</string>
+    <string name="settingStartCounter">App Start Counter</string>
+    <string name="settingStartCounterSubject"> times.</string>
+    <string name="settingRateApplication">Rate this application</string>
+    <string name="settingRateApplicationSubject">If you like this app, please rate us!</string>
+    <string name="settingShareApplication">Share</string>
+    <string name="settingShareApplicationSubject">Share this app with your family and friends.</string>
+
+    <!-- App Messages-->
+    <string name="fetching_station_error">There is some error please try again later.</string>
+
+
+    <!--Exception message-->
+    <string name="ep_ANFE_Setting_EQ">Your device does\'nt support Equalizer.</string>
+    <string name="ep_Exception_Setting_EQ">Equalizer is not available right now.</string>
+
+    <!--Menu items name-->
+    <string name="favorite">Favorite</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+
+
+    <!--PlayStreamService -->
+    <string name="buffering">Buffering...</string>
+    <string name="pleaseWait">Please wait</string>
+    <string name="noStationFound">No Station Found</string>
+    <string name="desc_category">Radio Station Category</string>
+    <string name="list_of_radio_stations">List of Radio Stations</string>
+</resources>

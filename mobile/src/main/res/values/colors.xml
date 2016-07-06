@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2cb6ae</color>
+    <color name="colorPrimaryDark">#00a49d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="black_alpha87">#212121</color>
+    <color name="black_alpha54">#757575</color>
+    <color name="bg_playscreenbottom">#202023</color>
+    <color name="bg_playscreentop">#D3D4D3</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white_alpha87">#D9ffffff</color>
+    <color name="white_alpha54">#8Cffffff</color>
+
+    <!-- HomeScreen RecyclerView item colors-->
+
+    <color name="colorItemHomeScreenBgNowPlaying">#32CD32</color>
+    <color name="colorItemHomeScreenCategoryNowPlaying">#006400</color>
+
+    <color name="colorItemHomeScreenBgTop500">#FCAC00</color>
+    <color name="colorItemHomeScreenCategoryTop500">#744F00</color>
+
+    <color name="colorItemHomeScreenBgCountry">#2DC4E0</color>
+    <color name="colorItemHomeScreenCategoryGenre1">#124E5A</color>
+
+    <color name="colorItemHomeScreenBgGenre">#D32F2F</color>
+    <color name="colorItemHomeScreenCategoryGenre">#611616</color>
+
+
+    <color name="toolbarStripColor">#2DC4E0</color>
+    <color name="bgBottomToolbarPlayerScreen">#064845</color>
+    <color name="colorHighlight">#20d3d3d3</color>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/homescreentwowaylayout_item"
+    android:minHeight="100dp"
+    android:minWidth="1500dp"
+    android:previewImage="@drawable/img_music_visualizer_playscreen"
+    android:resizeMode="vertical"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen"></appwidget-provider>

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timername">
+        <item>Off</item>
+        <item>After 15 Minutes</item>
+        <item>After 30 Minutes</item>
+        <item>After 1 Hour</item>
+        <item>After 2 Hours</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Arabic</item>
+        <item>Hindi</item>
+        <item>Tamil</item>
+        <item>Bengali</item>
+        <item>Punjabi</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Telugu</item>
+        <item>Mandarin</item>
+        <item>Russian</item>
+        <item>Portuguese</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Italian</item>
+    </string-array>
+    <string-array name="timervalue">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="filterCategory">
+        <item>Top 500</item>
+        <item>Country</item>
+        <item>Station Name</item>
+        <item>Song Name</item>
+        <item>Language</item>
+        <item>Genre</item>
+    </string-array>
+    <string-array name="genre_list">
+        <item>00s</item>
+        <item>30s</item>
+        <item>40s</item>
+        <item>50s</item>
+        <item>60s</item>
+        <item>70s</item>
+        <item>80s</item>
+        <item>90s</item>
+        <item>Acid House</item>
+        <item>Acid Jazz</item>
+        <item>Acoustic Blues</item>
+        <item>Adult</item>
+        <item>Adult Album Alternative</item>
+        <item>Adult Alternative</item>
+        <item>Adult Contemporary</item>
+        <item>African</item>
+        <item>Afrikaans</item>
+        <item>Alt Country</item>
+        <item>Alternative</item>
+        <item>Alternative Folk</item>
+        <item>Alternative Rap</item>
+        <item>Ambient</item>
+        <item>Americana</item>
+        <item>Anime</item>
+        <item>Anniversary</item>
+        <item>Arabic</item>
+        <item>Asian</item>
+        <item>Avant Garde</item>
+        <item>Bachata</item>
+        <item>Banda</item>
+        <item>Barbershop</item>
+        <item>Baroque</item>
+        <item>Best Of</item>
+        <item>Big Band</item>
+        <item>Big Beat</item>
+        <item>Birthday</item>
+        <item>Black Metal</item>
+        <item>BlogTalk</item>
+        <item>Bluegrass</item>
+        <item>Blues</item>
+        <item>Bollywood</item>
+        <item>Bop</item>
+        <item>Bossa Nova</item>
+        <item>Brazilian</item>
+        <item>Breakbeat</item>
+        <item>British Invasion</item>
+        <item>Britpop</item>
+        <item>Bubblegum Pop</item>
+        <item>Cajun and Zydeco</item>
+        <item>Caribbean</item>
+        <item>Celtic</item>
+        <item>Celtic Rock</item>
+        <item>Chamber</item>
+        <item>Chicago Blues</item>
+        <item>Chill</item>
+        <item>Chinese</item>
+        <item>Choral</item>
+        <item>Christian</item>
+        <item>Christian Metal</item>
+        <item>Christian Rap</item>
+        <item>Christian Rock</item>
+        <item>Christmas</item>
+        <item>Classic Alternative</item>
+        <item>Classic Christian</item>
+        <item>Classic Country</item>
+        <item>Classic Jazz</item>
+        <item>Classic Metal</item>
+        <item>Classic RB</item>
+        <item>Classic Rock</item>
+        <item>Classical</item>
+        <item>Classical Period</item>
+        <item>College</item>
+        <item>Comedy</item>
+        <item>Community</item>
+        <item>Contemporary Bluegrass</item>
+        <item>Contemporary Blues</item>
+        <item>Contemporary Country</item>
+        <item>Contemporary Folk</item>
+        <item>Contemporary Gospel</item>
+        <item>Contemporary RB</item>
+        <item>Contemporary Reggae</item>
+        <item>Cool Jazz</item>
+        <item>Country</item>
+        <item>Country Blues</item>
+        <item>Creole</item>
+        <item>Cumbia</item>
+        <item>Dance</item>
+        <item>Dance Pop</item>
+        <item>Dancehall</item>
+        <item>Dancepunk</item>
+        <item>Death Metal</item>
+        <item>Decades</item>
+        <item>Delta Blues</item>
+        <item>Demo</item>
+        <item>Dirty South</item>
+        <item>Disco</item>
+        <item>Doo Wop</item>
+        <item>Downtempo</item>
+        <item>Dream Pop</item>
+        <item>Drum and Bass</item>
+        <item>Dub</item>
+        <item>Dubstep</item>
+        <item>Early Classical</item>
+        <item>East Coast Rap</item>
+        <item>Easy Listening</item>
+        <item>Eclectic</item>
+        <item>Educational</item>
+        <item>Electric Blues</item>
+        <item>Electro</item>
+        <item>Electronic</item>
+        <item>Emo</item>
+        <item>Environmental</item>
+        <item>Ethnic Fusion</item>
+        <item>European</item>
+        <item>Exotica</item>
+        <item>Experimental</item>
+        <item>Extreme Metal</item>
+        <item>Female</item>
+        <item>Filipino</item>
+        <item>Flamenco</item>
+        <item>Folk</item>
+        <item>Folk Rock</item>
+        <item>Freestyle</item>
+        <item>French</item>
+        <item>Funk</item>
+        <item>Fusion</item>
+        <item>Gangsta Rap</item>
+        <item>Garage</item>
+        <item>Garage Rock</item>
+        <item>German</item>
+        <item>Glam</item>
+        <item>Gospel</item>
+        <item>Goth</item>
+        <item>Government</item>
+        <item>Greek</item>
+        <item>Grindcore</item>
+        <item>Grunge</item>
+        <item>Hair Metal</item>
+        <item>Halloween</item>
+        <item>Hanukkah</item>
+        <item>Hard Bop</item>
+        <item>Hard House</item>
+        <item>Hard Rock</item>
+        <item>Hardcore</item>
+        <item>Hawaiian and Pacific</item>
+        <item>Healing</item>
+        <item>Heartache</item>
+        <item>Heavy Metal</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hip Hop</item>
+        <item>Honeymoon</item>
+        <item>Honky Tonk</item>
+        <item>Hot Country Hits</item>
+        <item>House</item>
+        <item>IDM</item>
+        <item>Idols</item>
+        <item>Impressionist</item>
+        <item>Indian</item>
+        <item>Indie Pop</item>
+        <item>Indie Rock</item>
+        <item>Industrial</item>
+        <item>Inspirational</item>
+        <item>Instrumental</item>
+        <item>International</item>
+        <item>Islamic</item>
+        <item>Jam Bands</item>
+        <item>Japanese</item>
+        <item>Jazz</item>
+        <item>JPOP</item>
+        <item>JROCK</item>
+        <item>Jungle</item>
+        <item>Kids</item>
+        <item>Klezmer</item>
+        <item>Korean</item>
+        <item>KPOP</item>
+        <item>Kwanzaa</item>
+        <item>Latin</item>
+        <item>Latin Dance</item>
+        <item>Latin Jazz</item>
+        <item>Latin Pop</item>
+        <item>Latin Rap and Hip Hop</item>
+        <item>Latin Rock</item>
+        <item>LGBT</item>
+        <item>Light Rock</item>
+        <item>LoFi</item>
+        <item>Lounge</item>
+        <item>Love and Romance</item>
+        <item>Mariachi</item>
+        <item>Meditation</item>
+        <item>Mediterranean</item>
+        <item>Merengue</item>
+        <item>Metal</item>
+        <item>Metalcore</item>
+        <item>Middle Eastern</item>
+        <item>Misc</item>
+        <item>Mixtapes</item>
+        <item>Modern</item>
+        <item>Modern Rock</item>
+        <item>Motown</item>
+        <item>Neo Soul</item>
+        <item>New Acoustic</item>
+        <item>New Age</item>
+        <item>New Wave</item>
+        <item>News</item>
+        <item>Noise Pop</item>
+        <item>North American</item>
+        <item>Old School</item>
+        <item>Old Time</item>
+        <item>Old Time Radio</item>
+        <item>Oldies</item>
+        <item>Opera</item>
+        <item>Orchestral Pop</item>
+        <item>Original Score</item>
+        <item>Other Talk</item>
+        <item>Party Mix</item>
+        <item>Patriotic</item>
+        <item>Piano</item>
+        <item>Piano Rock</item>
+        <item>Political</item>
+        <item>Polka</item>
+        <item>Pop</item>
+        <item>Pop Reggae</item>
+        <item>Post Punk</item>
+        <item>Power Metal</item>
+        <item>Power Pop</item>
+        <item>Praise and Worship</item>
+        <item>Prog Rock</item>
+        <item>Progressive</item>
+        <item>Progressive Metal</item>
+        <item>Psychedelic</item>
+        <item>Public Radio</item>
+        <item>Punk</item>
+        <item>Quiet Storm</item>
+        <item>RB and Urban</item>
+        <item>Ragga</item>
+        <item>Rainy Day Mix</item>
+        <item>Ranchera</item>
+        <item>Rap</item>
+        <item>Rap Metal</item>
+        <item>Reality</item>
+        <item>Reggae</item>
+        <item>Reggae Roots</item>
+        <item>Reggaeton</item>
+        <item>Regional Mexican</item>
+        <item>Rock</item>
+        <item>Rock n Roll</item>
+        <item>Rock Steady</item>
+        <item>Rockabilly</item>
+        <item>Romantic</item>
+        <item>Russian</item>
+        <item>Salsa</item>
+        <item>Samba</item>
+        <item>Scanner</item>
+        <item>Seasonal and Holiday</item>
+        <item>Sermons and Services</item>
+        <item>Sexy</item>
+        <item>Showtunes</item>
+        <item>Shuffle</item>
+        <item>Singer and Songwriter</item>
+        <item>Ska</item>
+        <item>Smooth Jazz</item>
+        <item>Soca</item>
+        <item>Soft Rock</item>
+        <item>Soul</item>
+        <item>Soundtracks</item>
+        <item>South American</item>
+        <item>Southern Gospel</item>
+        <item>Space Age Pop</item>
+        <item>Spiritual</item>
+        <item>Spoken Word</item>
+        <item>Sports</item>
+        <item>Surf</item>
+        <item>Swing</item>
+        <item>Symphony</item>
+        <item>Talk</item>
+        <item>Tamil</item>
+        <item>Tango</item>
+        <item>Techno</item>
+        <item>Technology</item>
+        <item>Teen Pop</item>
+        <item>Tejano</item>
+        <item>Themes</item>
+        <item>Thrash Metal</item>
+        <item>Top 40</item>
+        <item>Traditional Folk</item>
+        <item>Traditional Gospel</item>
+        <item>Trance</item>
+        <item>Travel Mix</item>
+        <item>Tribal</item>
+        <item>Tribute</item>
+        <item>Trip Hop</item>
+        <item>Trippy</item>
+        <item>Tropicalia</item>
+        <item>Turkish</item>
+        <item>Turntablism</item>
+        <item>Underground Hip Hop</item>
+        <item>Urban Contemporary</item>
+        <item>Valentine</item>
+        <item>Video Game Music</item>
+        <item>Vocal Jazz</item>
+        <item>Weather</item>
+        <item>Wedding</item>
+        <item>West Coast Rap</item>
+        <item>Western</item>
+        <item>Winter</item>
+        <item>Work Mix</item>
+        <item>World Folk</item>
+        <item>World Fusion</item>
+        <item>World Pop</item>
+        <item>Worldbeat</item>
+        <item>Xtreme</item>
+        <item>Zouk</item>
+    </string-array>
+    <string-array name="countries_array">
+        <item>Andorra</item>
+        <item>United Arab Emirates</item>
+        <item>Afghanistan</item>
+        <item>Anguilla</item>
+        <item>Albania</item>
+        <item>Armenia</item>
+        <item>Angola</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Austria</item>
+        <item>Australia</item>
+        <item>Aruba</item>
+        <item>Åland</item>
+        <item>Azerbaijan</item>
+        <item>Barbados</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Bahrain</item>
+        <item>Burundi</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Brunei</item>
+        <item>Bolivia</item>
+        <item>Bonaire</item>
+        <item>Brazil</item>
+        <item>Bahamas</item>
+        <item>Bhutan</item>
+        <item>Botswana</item>
+        <item>Belarus</item>
+        <item>Belize</item>
+        <item>Canada</item>
+        <item>Switzerland</item>
+        <item>Chile</item>
+        <item>Cameroon</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Curacao</item>
+        <item>Cyprus</item>
+        <item>Germany</item>
+        <item>Djibouti</item>
+        <item>Denmark</item>
+        <item>Dominica</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Estonia</item>
+        <item>Egypt</item>
+        <item>Sahara</item>
+        <item>Eritrea</item>
+        <item>Spain</item>
+        <item>Ethiopia</item>
+        <item>Finland</item>
+        <item>Fiji</item>
+        <item>Micronesia</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>United Kingdom</item>
+        <item>Grenada</item>
+        <item>Georgia</item>
+        <item>French Guiana</item>
+        <item>Guernsey</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greenland</item>
+        <item>Gambia</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Greece</item>
+        <item>Guatemala</item>
+        <item>Guam</item>
+        <item>Guyana</item>
+        <item>Hong Kong</item>
+        <item>Honduras</item>
+        <item>Croatia</item>
+        <item>Haiti</item>
+        <item>Hungary</item>
+        <item>Indonesia</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>India</item>
+        <item>Iraq</item>
+        <item>Iran</item>
+        <item>Iceland</item>
+        <item>Italy</item>
+        <item>Jersey</item>
+        <item>Jamaica</item>
+        <item>Jordan</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+        <item>Kyrgyzstan</item>
+        <item>Cambodia</item>
+        <item>Kiribati</item>
+        <item>Comoros</item>
+        <item>Korea</item>
+        <item>Kuwait</item>
+        <item>Kazakhstan</item>
+        <item>Laos</item>
+        <item>Lebanon</item>
+        <item>Liechtenstein</item>
+        <item>Sri Lanka</item>
+        <item>Liberia</item>
+        <item>Lesotho</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Latvia</item>
+        <item>Libya</item>
+        <item>Morocco</item>
+        <item>Monaco</item>
+        <item>Moldova</item>
+        <item>Montenegro</item>
+        <item>Madagascar</item>
+        <item>Marshall</item>
+        <item>Macedonia</item>
+        <item>Mali</item>
+        <item>Myanmar</item>
+        <item>Mongolia</item>
+        <item>Macao</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Malta</item>
+        <item>Mauritius</item>
+        <item>Maldives</item>
+        <item>Malawi</item>
+        <item>Mexico</item>
+        <item>Malaysia</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Caledonia</item>
+        <item>Niger</item>
+        <item>Norfolk</item>
+        <item>Nigeria</item>
+        <item>Nicaragua</item>
+        <item>Netherlands</item>
+        <item>Norway</item>
+        <item>Nepal</item>
+        <item>Nauru</item>
+        <item>Niue</item>
+        <item>New Zealand</item>
+        <item>Oman</item>
+        <item>Panama</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pakistan</item>
+        <item>Poland</item>
+        <item>Puerto Rico</item>
+        <item>Palestine</item>
+        <item>Portugal</item>
+        <item>Palau</item>
+        <item>Paraguay</item>
+        <item>Qatar</item>
+        <item>Réunion</item>
+        <item>Romania</item>
+        <item>Serbia</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Saudi Arabia</item>
+        <item>Seychelles</item>
+        <item>Sudan</item>
+        <item>Sweden</item>
+        <item>Singapore</item>
+        <item>Saint Helena</item>
+        <item>Slovenia</item>
+        <item>Slovakia</item>
+        <item>San Marino</item>
+        <item>Senegal</item>
+        <item>Somalia</item>
+        <item>Suriname</item>
+        <item>Salvador</item>
+        <item>Syria</item>
+        <item>Swaziland</item>
+        <item>Togo</item>
+        <item>Thailand</item>
+        <item>Tajikistan</item>
+        <item>Tokelau</item>
+        <item>Turkmenistan</item>
+        <item>Tunisia</item>
+        <item>Tonga</item>
+        <item>Turkey</item>
+        <item>Tuvalu</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Ukraine</item>
+        <item>Uganda</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vatican</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Vanuatu</item>
+        <item>Samoa</item>
+        <item>Kosovo</item>
+        <item>Yemen</item>
+        <item>Mayotte</item>
+        <item>Africa</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+</resources>
